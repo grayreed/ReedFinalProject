@@ -1,0 +1,87 @@
+body {
+	background-color: #e3ded1;
+	font-family: "Times", sans-serif;
+	max-width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.site-banner {
+	border-top: 8px solid #211a1d;
+	border-bottom: 1px solid #211a1d;
+	padding: 10px;
+	text-align: center;
+	font-size: 40px;
+}
+
+.article{
+	max-width: 1000px;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.story-header{
+	font-family: "Verdana", sans-serif;
+	font-size: 15px;
+}
+
+.grabber{
+	font-size: 20px;
+	font-family: "Arial", sans-serif;
+}
+.byline{
+	font-weight: bold;
+	font-size: 15px;
+	font-family: "Arial", sans-serif;
+}
+
+.date{
+	font-family: "Arial", sans-serif;
+	font-size: 12px;
+}
+
+.story-copy{
+	font-family: "Verdana", sans-serif;
+	font-size: 15px;
+}
+
+.photo{
+	width: 100%;
+}
+
+.photo-caption{
+	color: gray;
+	font-size: 14px;
+	margin-top: 0px;
+}
+
+.iframe{
+	width: 100%;
+}
+
+.footer{
+	border-top: 4px solid #211a1d;
+	border-bottom: 1px solid #211a1d;
+	padding: 0px 0px 20px 20px;
+	text-align: left;
+	font-size: 15px;
+	font-family: "Verdana", sans-serif;
+}
+
+.footer-info{
+	color: gray;
+	font-size: 14px;
+	font-family: "Arial", sans-serif;
+}
+
+
+a {
+	color: #55505c;
+}
+	a:hover {
+		text-decoration: solid underline;
+		text-decoration-color: #fc5130;
+	}
+	a:hover {
+		color: #fc5130;
+	}
